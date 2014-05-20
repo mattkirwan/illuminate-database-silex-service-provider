@@ -1,0 +1,19 @@
+{
+	"name": "mattkirwan/illuminate-database-silex-service-provider",
+	"description": "A Silex specific service provider for using Illuminate Database as a standalone library",
+	"homepage": "git@github.com:mattkirwan/illuminate-database-silex-service-provider.git",
+	"type": "library",
+	"keywords": ["silex","illuminate","database","db","service","provider","eloquent","orm"],
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Matt Kirwan",
+            "email": "matthewkirwan@gmail.com",
+            "homepage": "http://www.mattkirwan.com/",
+            "role": "Developer"
+        }
+    ],
+    "suggest": {
+    	"illuminate/cache": "Provides cache integration"
+    }
+}
