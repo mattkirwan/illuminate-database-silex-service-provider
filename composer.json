@@ -19,5 +19,8 @@
     },    
     "suggest": {
     	"illuminate/cache": "Provides cache integration"
+    },
+    "autoload": {
+        "psr-0": { "MattKirwan\\": "src/" }
     }
 }
